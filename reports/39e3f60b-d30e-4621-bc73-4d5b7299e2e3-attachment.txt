@@ -1,0 +1,93 @@
+Abriendo Wishlist 
+
+Children of Morta Agregado a la lista
+ASTRONEER Agregado a la lista
+Hob Agregado a la lista
+Shadow Tactics: Blades of the Shogun Agregado a la lista
+Furi Agregado a la lista
+Wizard of Legend Agregado a la lista
+NieR:Automata™ Agregado a la lista
+GTTOD: Get To The Orange Door Agregado a la lista
+TUNIC Agregado a la lista
+HELLDIVERS™ 2 Agregado a la lista
+Moonlighter Agregado a la lista
+GreedFall Agregado a la lista
+Slay the Spire Agregado a la lista
+CODE VEIN Agregado a la lista
+Darksiders Genesis Agregado a la lista
+Total War: THREE KINGDOMS Agregado a la lista
+DOOM Eternal Agregado a la lista
+Lista creada 
+
+['Children of Morta', 'ASTRONEER', 'Hob', 'Shadow Tactics: Blades of the Shogun', 'Furi', 'Wizard of Legend', 'NieR:Automata', 'GTTOD: Get To The Orange Door', 'TUNIC', 'HELLDIVERS 2', 'Moonlighter', 'GreedFall', 'Slay the Spire', 'CODE VEIN', 'Darksiders Genesis', 'Total War: THREE KINGDOMS', 'DOOM Eternal']
+Abriendo buscador protondb 
+
+Buscando: Children of Morta
+Children of Morta Encontrado en protondb
+Estado: GOLD 
+
+Buscando: ASTRONEER
+ASTRONEER Encontrado en protondb
+Estado: GOLD 
+
+Buscando: Hob
+Hob Encontrado en protondb
+Estado: GOLD 
+
+Buscando: Shadow Tactics: Blades of the Shogun
+Shadow Tactics: Blades of the Shogun Encontrado en protondb
+Estado: PLATINUM 
+
+Buscando: Furi
+Furi Encontrado en protondb
+Estado: PLATINUM 
+
+Buscando: Wizard of Legend
+Wizard of Legend Encontrado en protondb
+Estado: PLATINUM 
+
+Buscando: NieR:Automata
+NieR:Automata Encontrado en protondb
+Estado: PLATINUM 
+
+Buscando: GTTOD: Get To The Orange Door
+GTTOD: Get To The Orange Door Encontrado en protondb
+Estado: GOLD 
+
+Buscando: TUNIC
+TUNIC Encontrado en protondb
+Estado: PLATINUM 
+
+Buscando: HELLDIVERS 2
+HELLDIVERS 2 Encontrado en protondb
+Estado: GOLD 
+
+Buscando: Moonlighter
+Moonlighter Encontrado en protondb
+Estado: GOLD 
+
+Buscando: GreedFall
+GreedFall Encontrado en protondb
+Estado: GOLD 
+
+Buscando: Slay the Spire
+Slay the Spire Encontrado en protondb
+Estado: PLATINUM 
+
+Buscando: CODE VEIN
+CODE VEIN Encontrado en protondb
+Estado:  
+
+Buscando: Darksiders Genesis
+Darksiders Genesis Encontrado en protondb
+Estado: PLATINUM 
+
+Buscando: Total War: THREE KINGDOMS
+Total War: THREE KINGDOMS Encontrado en protondb
+Estado: SILVER 
+
+Buscando: DOOM Eternal
+DOOM Eternal Encontrado en protondb
+Estado: GOLD 
+
+Finalizando...
